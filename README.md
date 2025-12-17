@@ -15,6 +15,7 @@ CIRCUIT DIAGRAM
 <img width="915" height="379" alt="Screenshot 2025-12-17 134517" src="https://github.com/user-attachments/assets/51cbea99-1d1f-4c67-9f25-b2eaaca3f0fb" />
 
 PROCEDURE: -
+
 I. Connect the multimeter at the output of kit..
 2. Set the range to a maximum value of 10 mm.
 3. More the gauge from zero to maximum of 20mm.
@@ -22,11 +23,11 @@ I. Connect the multimeter at the output of kit..
 5. Plot the graph between displacement and voltages on the graph paper.
 
 OBSERVATION TABLE
-
+```
 |Input Voltage|Output Voltage|Frequency|Time=1/f|
 |Positive Displacement|----|7|2.2V|1000|1/1000=1 ms|
 |Negative Displacement|-----|7|-2.2V|1000|1/1000=1 ms|
-
+```
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
 2. The core should be set to a maximum value of 20mm.
